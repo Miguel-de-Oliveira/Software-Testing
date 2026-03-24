@@ -27,7 +27,6 @@ class SituacaoCandidato{
   public void setQuestoesAcertadas(int questoesAcertadas){
     this.questoesAcertadas = questoesAcertadas;
   }
-
   public double getNotaDaRedacao(){
     return notaDaRedacao;
   }
